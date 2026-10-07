@@ -1,3 +1,15 @@
 x = 44
 if x%2==0:
-print("The number is even")
+   print("The number is even") #To know weather the number is even or not
+elif x%2!=0:
+     print("x is odd") # To know weather the number is odd
+
+ 
+
+
+
+
+
+
+
+
